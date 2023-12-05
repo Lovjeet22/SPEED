@@ -1,4 +1,5 @@
 Hello, i'm Kazuki 
 Living in Tokyo,JAPAN
 Currently studying CS.
- pursuing bca 
+ pursuing bca
+ from dseu 
